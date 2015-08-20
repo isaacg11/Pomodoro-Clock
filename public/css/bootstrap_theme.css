@@ -1,0 +1,40 @@
+#minutes{
+  font-size:200px;
+}
+#seconds{
+  font-size: 200px;
+}
+#start{
+  height: 75px;
+  width:150px;
+}
+#stop{
+  height: 75px;
+  width:150px;
+}
+#reset{
+  height: 75px;
+  width:150px;
+}
+#header{
+  font-size: 60px;
+  color:#FFCC00;
+  text-align: center;
+}
+#body{
+  background-color: #CCCCCC;
+}
+#rule{
+  font-size: 18px;
+  border-radius: 15px;
+}
+#taskName{
+  height: 40px;
+  width: 250px;
+  font-size: 18px;
+  text-align: center;
+  border-radius: 40px;
+}
+#clock{
+  height: 37px;
+}
